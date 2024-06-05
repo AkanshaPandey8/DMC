@@ -374,3 +374,20 @@ padding: 10px;
       }
     }
     }
+    .card-1:hover{
+        background-color: rgb(42, 104, 104);
+        color:white;
+        
+    }
+    .card-2:hover{
+        background-color: rgb(29, 95, 161);
+        color:white;
+    }
+    .card-3:hover{
+        background-color: rgb(185, 81, 194);
+        color:white;
+    }
+    .card-4:hover{
+        background-color: rgb(192, 49, 13);
+        color:white;
+    }
